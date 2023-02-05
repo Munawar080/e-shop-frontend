@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "e-shop-e9c8c"
+  },
+  "targets": {
+    "e-shop-e9c8c": {
+      "hosting": {
+        "e-shop": [
+          "e-shop-e9c8c"
+        ]
+      }
+    }
+  }
+}
